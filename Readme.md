@@ -12,4 +12,4 @@ To use this repository, follow these steps:
    ```
 
 <img src="https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
-# javascript-coding-practice
+
